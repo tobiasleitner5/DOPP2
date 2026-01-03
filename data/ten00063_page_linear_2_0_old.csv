@@ -364,3 +364,4 @@ dataflow,ESTAT:TEN00063(1.0),Recycling rates for packaging waste,A,Annual,W1501,
 dataflow,ESTAT:TEN00063(1.0),Recycling rates for packaging waste,A,Annual,W1501,Packaging,RT_TGT2025,Rate (2025 target and onwards),SK,Slovakia,2021,,73.9,,d,definition differs (see metadata),,
 dataflow,ESTAT:TEN00063(1.0),Recycling rates for packaging waste,A,Annual,W1501,Packaging,RT_TGT2025,Rate (2025 target and onwards),SK,Slovakia,2022,,71.8,,d,definition differs (see metadata),,
 dataflow,ESTAT:TEN00063(1.0),Recycling rates for packaging waste,A,Annual,W1501,Packaging,RT_TGT2025,Rate (2025 target and onwards),SK,Slovakia,2023,,71.9,,dp,"definition differs (see metadata), provisional",,
+
