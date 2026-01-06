@@ -1,0 +1,30 @@
+﻿policy_name;abbreviation;year_adopted;eu_wide;country
+Waste Framework Directive;WFD;2008;yes;all
+Waste Electrical and Electronic Equipment Directive;WEEE_Directive_1;2002;yes;all
+Waste Electrical and Electronic Equipment Directive;WEEE_Directive_2;2006;yes;all
+Waste Electrical and Electronic Equipment Directive;WEEE_Directive_3;2009;yes;all
+Waste Electrical and Electronic Equipment Directive;WEEE_Directive_4;2012;yes;all
+Restriction of Hazardous Substances Directive;RoHS_1;2003;yes;all
+Restriction of Hazardous Substances Directive;RoHS_2;2013;yes;all
+Restriction of Hazardous Substances Directive;RoHS_2;2015;yes;all
+Battery Directive;BL;2006;yes;all
+End of Life Vehicles Directive;EOLVD;2000;yes;all
+Landfill Directive;LFD_1;2001;yes;all
+Landfill Directive;LFD_2;2018;yes;all
+Single-Use Plastics Directive;SUP;2019;yes;all
+Circular Economy Action Plan;CEAP_1;2020;yes;all
+Circular Economy Action Plan;CEAP_2;2015;yes;all
+Strategy for Plastics in the Circular Economy;CEAP_3;2018;yes;all
+Deposit-return systems;DRS;2003;no;DE
+Deposit-return systems;DRS;2002;no;DK
+Deposit-return systems;DRS;2005;no;EE
+Deposit-return systems;DRS;2005;no;NL
+Deposit-return systems;DRS;1996;no;FI
+Deposit-return systems;DRS;2006;no;HR
+Deposit-return systems;DRS;2016;no;LT
+Deposit-return systems;DRS;2022;no;LV
+Deposit-return systems;DRS;2022;no;SK
+Deposit-return systems;DRS;1984;no;SE
+Deposit-return systems;DRS;2022;no;MT
+Plastic Tax;PT;2023;no;ES
+Plastic Tax;PT;2022;no;PT
