@@ -1,7 +1,6 @@
 pandas 
 matplotlib 
 seaborn
-pycountry
 linearmodels
 scikit-learn
 scikit_posthocs
